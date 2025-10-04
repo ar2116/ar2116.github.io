@@ -2,7 +2,7 @@
 
 ## Project info
 
-Aplace to store projects
+A place to store projects
 
 ## This project is built with:
 
