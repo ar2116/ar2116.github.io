@@ -4,7 +4,7 @@
 
 Aplace to store projects
 
-##This project is built with:
+## This project is built with:
 
 - Vite
 - TypeScript
