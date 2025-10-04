@@ -1,5 +1,7 @@
 # The Main Website
 
+Made with [lovable.dev](https://lovable.dev)
+
 ## Project info
 
 A place to store projects
